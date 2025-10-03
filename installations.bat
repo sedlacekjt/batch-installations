@@ -1,6 +1,6 @@
 winget install --accept-package-agreements --accept-source-agreements --id Microsoft.PowerShell
 winget install --accept-package-agreements --accept-source-agreements --id 7zip.7zip
-winget install --accept-package-agreements --accept-source-agreements --id Google.Chrome
+winget install --accept-package-agreements --accept-source-agreements --id Brave.Brave
 winget install --accept-package-agreements --accept-source-agreements --id Adobe.Acrobat.Reader.64-bit
 winget install --accept-package-agreements --accept-source-agreements --id Blizzard.BattleNet
 winget install --accept-package-agreements --accept-source-agreements --id Discord.Discord
