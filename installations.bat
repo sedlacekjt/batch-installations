@@ -1,7 +1,8 @@
 winget install --accept-package-agreements --accept-source-agreements --id Microsoft.PowerShell
 winget install --accept-package-agreements --accept-source-agreements --id 7zip.7zip
 winget install --accept-package-agreements --accept-source-agreements --id Brave.Brave
-winget install --accept-package-agreements --accept-source-agreements --id Adobe.Acrobat.Reader.64-bit
+winget install --accept-package-agreements --accept-source-agreements --id rcmaehl.MSEdgeRedirect
+winget install --accept-package-agreements --accept-source-agreements --id ONLYOFFICE.DesktopEditors
 winget install --accept-package-agreements --accept-source-agreements --id Blizzard.BattleNet
 winget install --accept-package-agreements --accept-source-agreements --id Discord.Discord
 winget install --accept-package-agreements --accept-source-agreements --id Dropbox.Dropbox
@@ -26,3 +27,4 @@ winget install --accept-package-agreements --accept-source-agreements --id Zoom.
 # Optional for troubleshooting and testing purposes
 # winget install --accept-package-agreements --accept-source-agreements --id AntibodySoftware.WizTree
 # winget install --accept-package-agreements --accept-source-agreements --id REALiX.HWiNFO
+
